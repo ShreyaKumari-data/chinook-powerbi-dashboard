@@ -2,7 +2,7 @@
 
 ### Business Objective
 - Which genre generates the most sales revenue and what is the revenue trend over time?
-- How are cutomers distributed over the countries and who are the top customers?
+- How are customers distributed over the countries and who are the top customers?
 - Which sales agent has handled the most transactions?
 
 ### Data Source
